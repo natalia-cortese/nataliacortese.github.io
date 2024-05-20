@@ -17,44 +17,33 @@
  - <a href="https://github.com/natalia-cortese/Codewars">Codewars Solutions</a>
 
 # Work experience
+- <strong>Position:</strong> Senior Software Engineer<br>
+  <strong>Duration:</strong> 2017 - 2024<br>
+  <strong>Employer:</strong> <a href="www.eventbrite.com">Eventbrite</a><br><br>
+  <strong>Responsibilities:</strong><br>
+  - Developed and designed REST API integrations using Python for renowned partners such as Facebook and Google.<br>
+  - Spearheaded ETL design initiatives for reporting applications and facilitated seamless data migration processes.<br>
+  - Contributed to architecture design for novel services deployed in AWS, ensuring scalability and efficiency.<br>
+  - Led database design efforts to support the implementation of new features and integrations with external partners.<br>
 
- - <div>
-    <strong>Position:</strong> Senior Software Engineer<br>
-    <strong>Duration:</strong> 2017 - 2024<br>
-    <strong>Employer:</strong> <a href="www.eventbrite.com">Eventbrite</a><br><br>
-    <strong>Responsibilities:</strong><br>
-    - Developed and designed REST API integrations using Python for renowned partners such as Facebook and Google.<br>
-    - Spearheaded ETL design initiatives for reporting applications and facilitated seamless data migration processes.<br>
-    - Contributed to architecture design for novel services deployed in AWS, ensuring scalability and efficiency.<br>
-    - Led database design efforts to support the implementation of new features and integrations with external partners.<br>
-</div>
+- <strong>Position:</strong> Senior Business Intelligence / Data Mining Analyst<br>
+  <strong>Duration:</strong> 2009 - 2017<br>
+  <strong>Employer:</strong> OSEP<br><br>
+  <strong>Responsibilities:</strong><br>
+  - Analyzed health data and statistics of benefits consumption for the Health Data Board.<br>
+  - Utilized SAP tools, Crystal Report, Business Object, SQL Server 2000/2005, Analysis Server, and Data Mining techniques.<br>
+  - Employed Carto, PL/SQL, and Tableau for dashboard building and data visualization.<br>
 
- - <div>
-    <strong>Position:</strong> Senior Business Intelligence / Data Mining Analyst<br>
-    <strong>Duration:</strong> 2009 - 2017<br>
-    <strong>Employer:</strong> OSEP<br><br>
-    <strong>Responsibilities:</strong><br>
-    - Analyzed health data and statistics of benefits consumption for the Health Data Board.<br>
-    - Utilized SAP tools, Crystal Report, Business Object, SQL Server 2000/2005, Analysis Server, and Data Mining techniques.<br>
-    - Employed Carto, PL/SQL, and Tableau for dashboard building and data visualization.<br>
-</div>
+- <strong>Position:</strong> Junior Developer<br>
+  <strong>Duration:</strong> 2008<br>
+  <strong>Employer:</strong> <a href="https://www.inamika.com/es/index.html">www.inamika.com</a><br>
+  <strong>Responsibilities:</strong> Build and design desktop applications in Delphi.<br>
 
-
- - <div>
-    <strong>Position:</strong> Junior Developer<br>
-    <strong>Duration:</strong> 2008<br>
-    <strong>Employer:</strong> <a href="https://www.inamika.com/es/index.html">www.inamika.com</a><br>
-    <strong>Responsibilities:</strong> Build and design desktop applications in Delphi.<br>
-</div>
-
-
- - <div>
-    <strong>Position:</strong> Junior Developer<br>
-    <strong>Duration:</strong> 2006 - 2008<br>
-    <strong>Employer:</strong> Registro Nacional de Las Personas<br>
-    <strong>Responsibilities:</strong> Build and design desktop applications in Delphi.<br>
-    <strong>Website:</strong> <a href="https://www.argentina.gob.ar/interior/renaper">RenaPer</a><br>
-</div>
+- <strong>Position:</strong> Junior Developer<br>
+  <strong>Duration:</strong> 2006 - 2008<br>
+  <strong>Employer:</strong> Registro Nacional de Las Personas<br>
+  <strong>Responsibilities:</strong> Build and design desktop applications in Delphi.<br>
+  <strong>Website:</strong> <a href="https://www.argentina.gob.ar/interior/renaper">RenaPer</a><br>
 
 
 # coursera:
