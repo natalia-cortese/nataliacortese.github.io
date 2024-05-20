@@ -46,22 +46,24 @@
   <strong>Website:</strong> <a href="https://www.argentina.gob.ar/interior/renaper">RenaPer</a><br>
 
 
-# coursera:
-  - title: Data Structure in Python
-    link: <url>https://www.coursera.org/learn/estructura-de-datos-python/home/welcome</url>
+# COURSERA:
+  - Data Structure in Python
+    link: <a href="https://www.coursera.org/learn/estructura-de-datos-python/home/welcome">Estructuras de datos en Python</a>
     date: March 1, 2020
 
 # CISCO:
-  - title: DBA ORACLE 9i
-    link: <url>http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=3449:academias-cisco-oracle-y-sun-utn-frm-cursos-y-carreras-de-informatica-aplicada&catid=77:noticias-facultad-regional-mendoza&Itemid=487</url>
+  - DBA ORACLE 9i
+    link: <a href="http://www.frm.utn.edu.ar/index.php?option=com_content&view=article&id=3449:academias-cisco-oracle-y-sun-utn-frm-cursos-y-carreras-de-informatica-aplicada&catid=77:noticias-facultad-regional-mendoza&Itemid=487">UTN-FRM</a>
     date: 2008
+
 # IBM:
-  - title: DBA DB2
+  - DBA DB2
     link: <url>https://www.ibm.com/products/db2-database</url>
       
 # UTN - FRM: 
-  - title: Degree on Bussiness Intelligence
+  - Degree on Bussiness Intelligence
     Info: Diplomatura en Business Intelligence
+    link: <url>www.utn.frba.com.ar</url>
     
 # AWS Training
   - <a href="https://www.linkedin.com/in/nataliacortese/#:~:text=fecha%20de%20vencimiento-,Ver%20credencial,-Diplomatura%20en%20Business">AWS Technical Essentials</a>
@@ -69,14 +71,12 @@
     Emisión: 10/2021
     Autoridad Emisora: AWS Training
     
-    - <a href="https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=1-e-JcBmnkumCuSEQUglnA2">Developing on AWS</a>
-    Info: Completion Certificate
-    Emisión: 11/2021
-    Autoridad Emisora: AWS Training
+  - <a href="https://www.aws.training/Transcript/CompletionCertificateHtml?transcriptid=1-e-JcBmnkumCuSEQUglnA2">Developing on AWS</a>
+  Info: Completion Certificate
+  Emisión: 11/2021
+  Autoridad Emisora: AWS Training
       
-
-      
-# Blog:
+# BLOG:
    - Post: Be the change
      link: <url> https://www.eventbrite.com.ar/engineering/ser-el-cambio/ </url>
    - Post: Open Data Why and How
