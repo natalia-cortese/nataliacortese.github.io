@@ -76,16 +76,13 @@
   Emisión: 11/2021
   Autoridad Emisora: AWS Training
       
-# BLOG:
-   - Post: Be the change
-     link: <url> https://www.eventbrite.com.ar/engineering/ser-el-cambio/ </url>
-   - Post: Open Data Why and How
-     link: <url> https://www.eventbrite.com/engineering/open-data-what-why-and-how/ </url>
+# Blogging:
+- Post: <a href="https://www.eventbrite.com.ar/engineering/ser-el-cambio/" target="_blank">Be the change</a>
+- Post: <a href="https://www.eventbrite.com/engineering/open-data-what-why-and-how/" target="_blank">Open Data Why and How</a>
 
-# hackerrank:
-   <url>https://www.hackerrank.com/NatuC</url>
-# codewars:
-   <url>https://www.codewars.com/users/Nats</url>
+# Dev Profiles:
+   <a href="https://www.hackerrank.com/NatuC" target="_blank">Hackerrank</a>
+   <a href="https://www.codewars.com/users/Nats" target="_blank">Codewars</a>
 
 # About Me:
   My professional goal is to keep me growing as a software developer. I am a self-taught person with good adaptation to changes, always learning a building a better knowledge base.
