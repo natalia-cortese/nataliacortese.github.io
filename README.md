@@ -1,20 +1,5 @@
-# Skills:
-
- - Python
- - Typescript
- - Kotlin
- - API design
- - SQL
- - REST
- - MySQL
- - Mentoring
- - SCRUM
- - Django
- 
-# My Repos:
- - <a href="https://github.com/natalia-cortese/machine_learning">Working on ML</a>
- - <a href="https://github.com/natalia-cortese/python">Python learning</a>
- - <a href="https://github.com/natalia-cortese/Codewars">Codewars Solutions</a>
+<h1>Natalia Cortese</h1>
+<img src="image.png" alt="My Skills" width="450" height="450" text-align="center"/>
 
 # Work experience
 - <strong>Position:</strong> Senior Software Engineer<br>
@@ -81,19 +66,22 @@
 - Post: <a href="https://www.eventbrite.com/engineering/open-data-what-why-and-how/" target="_blank">Open Data Why and How</a>
 
 # Dev Profiles:
-   <a href="https://www.hackerrank.com/NatuC" target="_blank">Hackerrank</a>
-   <a href="https://www.codewars.com/users/Nats" target="_blank">Codewars</a>
+  - <a href="https://www.hackerrank.com/NatuC" target="_blank">Hackerrank</a>
+  - <a href="https://www.codewars.com/users/Nats" target="_blank">Codewars</a>
+
+# My Repos:
+ - <a href="https://github.com/natalia-cortese/machine_learning">Working on ML</a>
+ - <a href="https://github.com/natalia-cortese/python">Python learning</a>
+ - <a href="https://github.com/natalia-cortese/Codewars">Codewars Solutions</a>
 
 # About Me:
-  My professional goal is to keep me growing as a software developer. I am a self-taught person with good adaptation to changes, always learning a building a better knowledge base.
-  My knowledge of programming languages are in Python mostly, with some knowledge on Delphi, C# and Java on backend languages and React on frontend.
-  I have management training in relational databases (Oracle, DB2, SQL Server) and non relational as Redis.
-  4 years experiences developing SAP Business Solution.
-  I am a curious and tireless software developer, I'm looking for the opportunity to growth and learn more. 
+  "My professional aspiration is to continually evolve as a software developer. I am a self-motivated individual with a strong aptitude for adapting to new environments and constantly expanding my knowledge base.
+  My primary expertise lies in Python, complemented by proficiency in backend languages such as Delphi, C#, and Java, as well as frontend development with React. I have also undergone management training in relational databases, including Oracle, DB2, and SQL Server, along with non-relational databases like Redis.
+  With four years of experience in developing SAP Business Solutions, I bring a blend of curiosity and tenacity to my work as a software developer. I am eagerly seeking opportunities to further my growth and continue learning in this dynamic field."
 
 # Contact Me
-https://www.linkedin.com/in/nataliacortese/
+<a href="https://www.linkedin.com/in/nataliacortese/" target="_blank">https://www.linkedin.com/in/nataliacortese/</a>
 
-Mendoza, Argentina
-Valencia, España
-Software Developer
+<br> Mendoza, Argentina </br>
+<br> Valencia, España </br>
+<br> Software Developer </br>
