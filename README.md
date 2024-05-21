@@ -1,6 +1,3 @@
-<h1>Natalia Cortese</h1>
-<img src="image.png" alt="My Skills" width="450" height="450" text-align="center"/>
-
 # Work experience
 - <strong>Position:</strong> Senior Software Engineer<br>
   <strong>Duration:</strong> 2017 - 2024<br>
