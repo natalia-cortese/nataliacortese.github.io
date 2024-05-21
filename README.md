@@ -59,7 +59,7 @@
   Autoridad Emisora: AWS Training
       
 # Blogging:
-- Post: <a href="https://www.eventbrite.com.ar/engineering/ser-el-cambio/" target="_blank">Be the change</a>
+- Post: <a href="https://www.eventbrite.com/engineering/be-the-change/" target="_blank">Be the change</a>
 - Post: <a href="https://www.eventbrite.com/engineering/open-data-what-why-and-how/" target="_blank">Open Data Why and How</a>
 
 # Dev Profiles:
