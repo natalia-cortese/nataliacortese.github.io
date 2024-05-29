@@ -7,8 +7,8 @@
     <li><img src="/img/apiRest.jpg" alt="API Rest" width="24" height="24">API Rest</li>
     <li><img src="/img/mysql.jpg" alt="MySQL" width="24" height="24">MySQL</li>
     <li><img src="/img/sql.png" alt="SQL" width="24" height="24">SQL</li>
-    <li><img src="/img/agile.png" alt="Agile, Scrum" width="24" height="24">Agile, Scrum</li>
-    <li><img src="/img/mentoring.png" alt="Mentoring" width="24" height="24">Mentoring</li>  
+    <li>Agile, Scrum</li>
+    <li>Mentoring</li>  
 </ul>
  
 # My Projects:
