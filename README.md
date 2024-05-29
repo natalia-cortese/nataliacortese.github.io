@@ -1,14 +1,15 @@
 # Skills:
-
- <p><img src="/img/python.png">Python</p>
- <p><img src="/img/ts.jpg">Typescript</p>
- <p><img src="/img/kotlin.jpg">Kotlin</p>
- <p><img src="/img/django.png">Django</p>
- <p><img src="/img/apiRest.jpg">API Rest</p>
- <p><img src="/img/mysql.jpg">MySQL</p>
- <p><img src="/img/sql.png">SQL</p>
- <p><img src="/img/agile.png">Agile, Scrum</p>
- <p><img src="/img/mentoring.png">Mentoring</p>
+ <ul class="skills">
+    <li><img src="/img/python.png" alt="Python" width="24" height="24">Python</li>
+    <li><img src="/img/ts.jpg" alt="Typescript" width="24" height="24">Typescript</li>
+    <li><img src="/img/kotlin.jpg" alt="Kotlin" width="24" height="24">Kotlin</li>
+    <li><img src="/img/django.png" alt="Django" width="24" height="24">Django</li>
+    <li><img src="/img/apiRest.jpg" alt="API Rest" width="24" height="24">API Rest</li>
+    <li><img src="/img/mysql.jpg" alt="MySQL" width="24" height="24">MySQL</li>
+    <li><img src="/img/sql.png" alt="SQL" width="24" height="24">SQL</li>
+    <li><img src="/img/agile.png" alt="Agile, Scrum" width="24" height="24">Agile, Scrum</li>
+    <li><img src="/img/mentoring.png" alt="Mentoring" width="24" height="24">Mentoring</li>  
+</ul>
  
 # My Projects:
  - <a href="https://github.com/natalia-cortese/machine_learning">Machine Learning Studies</a>
