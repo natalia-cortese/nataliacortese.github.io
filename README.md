@@ -1,3 +1,21 @@
+# Skills:
+ <ul class="skills">
+    <li><img src="/img/python.png" alt="Python" width="24" height="24">Python</li>
+    <li><img src="/img/ts.jpg" alt="Typescript" width="24" height="24">Typescript</li>
+    <li><img src="/img/kotlin.jpg" alt="Kotlin" width="24" height="24">Kotlin</li>
+    <li><img src="/img/django.png" alt="Django" width="24" height="24">Django</li>
+    <li><img src="/img/apiRest.jpg" alt="API Rest" width="24" height="24">API Rest</li>
+    <li><img src="/img/mysql.jpg" alt="MySQL" width="24" height="24">MySQL</li>
+    <li><img src="/img/sql.png" alt="SQL" width="24" height="24">SQL</li>
+    <li><img src="/img/github.png" alt="Github" width="24" height="24">Github</li>
+    <li>Agile, Scrum</li>
+    <li>Mentoring</li>  
+</ul>
+ 
+# My Projects:
+ - <a href="https://github.com/natalia-cortese/machine_learning">Machine Learning Studies</a>
+ - <a href="https://github.com/natalia-cortese/python">Python learning</a>
+
 # Work experience
 - <strong>Position:</strong> Senior Software Engineer<br>
   <strong>Duration:</strong> 2017 - 2024<br>
@@ -76,7 +94,8 @@
   With four years of experience in developing SAP Business Solutions, I bring a blend of curiosity and tenacity to my work as a software developer. I am eagerly seeking opportunities to further my growth and continue learning in this dynamic field."
 
 # Contact Me
-<a href="https://www.linkedin.com/in/nataliacortese/" target="_blank">https://www.linkedin.com/in/nataliacortese/</a>
+<a href="https://www.linkedin.com/in/nataliacortese/"><img src="/img/linkedin.jpg" alt="Linkedin" width="24" height="24"></a>
+<a href="natalia.cortese@gmail.com"><img src="/img/email.png" alt="email" width="24" height="24"></a>
 
 <br> Mendoza, Argentina
 <br> Valencia, España
