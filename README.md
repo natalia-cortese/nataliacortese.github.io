@@ -1,20 +1,18 @@
 # Skills:
 
- - Python
- - Typescript
- - Kotlin
- - API design
- - SQL
- - REST
- - MySQL
- - Mentoring
- - SCRUM
- - Django
+ <p><img src="/img/python.png">Python</p>
+ <p><img src="/img/ts.jpg">Typescript</p>
+ <p><img src="/img/kotlin.jpg">Kotlin</p>
+ <p><img src="/img/django.png">Django</p>
+ <p><img src="/img/apiRest.jpg">API Rest</p>
+ <p><img src="/img/mysql.jpg">MySQL</p>
+ <p><img src="/img/sql.png">SQL</p>
+ <p><img src="/img/agile.png">Agile, Scrum</p>
+ <p><img src="/img/mentoring.png">Mentoring</p>
  
-# My Repos:
- - <a href="https://github.com/natalia-cortese/machine_learning">Working on ML</a>
+# My Projects:
+ - <a href="https://github.com/natalia-cortese/machine_learning">Machine Learning Studies</a>
  - <a href="https://github.com/natalia-cortese/python">Python learning</a>
- - <a href="https://github.com/natalia-cortese/Codewars">Codewars Solutions</a>
 
 # Work experience
 - <strong>Position:</strong> Senior Software Engineer<br>
