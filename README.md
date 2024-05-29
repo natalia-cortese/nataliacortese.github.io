@@ -7,7 +7,7 @@
     <li><img src="/img/apiRest.jpg" alt="API Rest" width="24" height="24">API Rest</li>
     <li><img src="/img/mysql.jpg" alt="MySQL" width="24" height="24">MySQL</li>
     <li><img src="/img/sql.png" alt="SQL" width="24" height="24">SQL</li>
-    <li>Github</li>
+    <li><img src="/img/github.png" alt="Github" width="24" height="24">Github</li>
     <li>Agile, Scrum</li>
     <li>Mentoring</li>  
 </ul>
