@@ -114,8 +114,8 @@
   I am a curious and tireless software developer, I'm looking for the opportunity to growth and learn more. 
 
 # Contact Me
-<a href="https://www.linkedin.com/in/nataliacortese/"><img src="/img/linkedin.jpg" alt="Linkedin" width="24" height="24"></a>
-<a href="mailto:natalia.cortese@gmail.com"><img src="/img/email.png" alt="email" width="24" height="24"></a>
+<a href="https://www.linkedin.com/in/nataliacortese/"><img src="/img/linkedin.jpg" alt="Linkedin" width="32" height="32"></a>
+<a href="mailto:natalia.cortese@gmail.com"><img src="/img/email.png" alt="email" width="32" height="32"></a>
 
 Mendoza, Argentina
 Valencia, España
