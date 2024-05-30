@@ -2,10 +2,11 @@
  <ul class="skills">
     <li><img src="/img/python.png" alt="Python" width="24" height="24"> <strong>Python</strong> </li>
     <li><img src="/img/django.png" alt="Django" width="24" height="24"> <strong>Django</strong></li>
-    <li><img src="/img/ts.jpg" alt="Typescript" width="24" height="24"> Typescript</li>
-    <li><img src="/img/kotlin.jpg" alt="Kotlin" width="24" height="24"> Kotlin</li>
-    <li><img src="/img/lambda.png" alt="AWS Lambda" width="24" height="24"> AWS Lambda</li>
-    <li><img src="/img/lambda.png" alt="AWS Lambda" width="24" height="24"> AWS SQS/SNS</li>
+    <li><img src="/img/ts.png" alt="Typescript" width="24" height="24"> <strong>Typescript</strong></li>
+    <li><img src="/img/kotlin.png" alt="Kotlin" width="24" height="24"> Kotlin</li>
+    <li><img src="/img/js.png" alt="Javascript" width="24" height="24"> Javascript</li>
+    <li><img src="/img/aws.png" alt="AWS Lambda" width="24" height="24"> AWS Lambda</li>
+    <li><img src="/img/aws.png" alt="AWS SQS" width="24" height="24"> AWS SQS/SNS</li>
     <li><img src="/img/apiRest.jpg" alt="API Rest" width="24" height="24"> API Rest</li>
     <li><img src="/img/bases-de-datos.png" alt="MySQL" width="24" height="24"> MySQL</li>
     <li><img src="/img/bases-de-datos.png" alt="MySQL" width="24" height="24"> Redis</li>
