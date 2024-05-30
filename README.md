@@ -1,20 +1,32 @@
 # Skills:
  <ul class="skills">
-    <li><img src="/img/python.png" alt="Python" width="24" height="24"> <strong>Python</strong> </li>
-    <li><img src="/img/django.png" alt="Django" width="24" height="24"> <strong>Django</strong></li>
-    <li><img src="/img/ts.png" alt="Typescript" width="24" height="24"> <strong>Typescript</strong></li>
-    <li><img src="/img/kotlin.png" alt="Kotlin" width="24" height="24"> Kotlin</li>
-    <li><img src="/img/js.png" alt="Javascript" width="24" height="24"> Javascript</li>
-    <li><img src="/img/aws.png" alt="AWS Lambda" width="24" height="24"> AWS Lambda</li>
-    <li><img src="/img/aws.png" alt="AWS SQS" width="24" height="24"> AWS SQS/SNS</li>
+    <li>
+    <img src="/img/python.png" alt="Python" width="24" height="24"> <strong>Python</strong> 
+    <img src="/img/django.png" alt="Django" width="24" height="24"> <strong>Django</strong>
+    <img src="/img/ts.png" alt="Typescript" width="24" height="24"> <strong>Typescript</strong>
+    </li>
+    <li>
+    <img src="/img/kotlin.png" alt="Kotlin" width="24" height="24"> Kotlin
+    <img src="/img/js.png" alt="Javascript" width="24" height="24"> Javascript
+    </li>
+    <li>
+    <img src="/img/aws.png" alt="AWS Lambda" width="24" height="24"> AWS Lambda
+    <img src="/img/aws.png" alt="AWS SQS" width="24" height="24"> AWS SQS/SNS
+    <img src="/img/bases-de-datos.png" alt="SQL" width="24" height="24"> Redshift
+    </li>
     <li><img src="/img/apiRest.jpg" alt="API Rest" width="24" height="24"> API Rest</li>
-    <li><img src="/img/bases-de-datos.png" alt="MySQL" width="24" height="24"> MySQL</li>
-    <li><img src="/img/bases-de-datos.png" alt="MySQL" width="24" height="24"> Redis</li>
-    <li><img src="/img/bases-de-datos.png" alt="SQL" width="24" height="24"> Redshift</li>
-    <li><img src="/img/bases-de-datos.png" alt="SQL" width="24" height="24"> SQLServer</li>
-    <li><img src="/img/bases-de-datos.png" alt="SQL" width="24" height="24"> SQL</li>
-    <li><img src="/img/bases-de-datos.png" alt="SQL" width="24" height="24"> NoSQL</li>
-    <li><img src="/img/github.png" alt="Github" width="24" height="24"> Github</li>
+    <li>
+    <img src="/img/bases-de-datos.png" alt="MySQL" width="24" height="24"> MySQL
+    <img src="/img/bases-de-datos.png" alt="MySQL" width="24" height="24"> Redis
+    <img src="/img/bases-de-datos.png" alt="SQL" width="24" height="24"> SQLServer
+    <img src="/img/bases-de-datos.png" alt="SQL" width="24" height="24"> SQL
+    <img src="/img/bases-de-datos.png" alt="SQL" width="24" height="24"> NoSQL
+    </li>
+    <li>
+    <img src="/img/github.png" alt="Github" width="24" height="24"> Github
+    <img src="/img/jira.png" alt="Jira" width="24" height="24"> Jira
+    <img src="/img/splunk.png" alt="Splunk" width="24" height="24"> Splunk
+    </li>
     <li>Agile, Scrum</li>
     <li>Mentoring</li>  
 </ul>
